@@ -20,6 +20,12 @@ In this project, I have chosen to scrape the POSB website because its DOM struct
 
 **9 Categories**, **104 Billing organisations** found.
 
+An example:
+
+| Billing Organisation |	Bill Reference Number |	Field Length |	Example |
+| -- | -- | -- | -- |
+|StarHub Ltd | Account No. with StarHub Ltd as displayed on your right hand corner of your bill | Numeric with decimals, ending with a letter. | Eg: 1.12345678A,Telecommunications and Utilities
+
 You can refer to [payees_with_category.xlsx](./payees_with_category.xlsx) or [payees_with_category.csv](./payees_with_category.csv), whichever file format you prefer. 
 
 ### Using the data in your project
