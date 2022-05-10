@@ -1,0 +1,105 @@
+,0,1,2,3,4
+0,DBS Vickers Securities (Singapore) Pte Ltd,DBS Vickers Trading account number,7 Digits,"80XX XXX Please indicate ""0"" for payment limit.",Brokerage / Securities Firms
+1,67 Pall Mall Singapore Pte. Ltd.,Membership No.,9 Characters (all numeric),012345678,Country Clubs / Recreational Clubs
+2,SENTOSA GOLF CLUB,Membership Number,7 Alphanumeric Characters (Maximum),A12345 / A12345X / AB1234,Country Clubs / Recreational Clubs
+3,Singapore Swimming Club,Account No. with billing corporation as shown on statement,5 Characters (2 Alphabet 3 Digits),TA123,Country Clubs / Recreational Clubs
+4,Singapore Island Country Club,Club No. as provided by billing organisation,5 Characters (1 Alphabet 4 Digits),A0123400 as A1234,Country Clubs / Recreational Clubs
+5,Temasek Club,NRIC No. with Prefix,8 Characters (1 Alphabet 7 Digits),S1234567A,Country Clubs / Recreational Clubs
+6,The Keppel Club,Membership No.,6 Characters (2 Alphabet 4 Digits),NG1234,Country Clubs / Recreational Clubs
+7,Warren Golf & Country Club,Member's Club No. as shown on membership card or statement,9 Characters (2 Alphabet 6 Digits with a hyphen),Social Member ST1234-00,Country Clubs / Recreational Clubs
+8,Warren Golf & Country Club,Member's Club No. as shown on membership card or statement,9 Characters (2 Alphabet 6 Digits with a hyphen),"Golfing, Ladies, Ordinary Member GF1234-00",Country Clubs / Recreational Clubs
+9,Warren Golf & Country Club,Member's Club No. as shown on membership card or statement,11 Characters (3 Alphabet 7 Digits with a hyphen),Corporate Member CM0021N1-00,Country Clubs / Recreational Clubs
+10,American Express Card,"For credit cards (3762 1 xxx...), input first 11 digits of the card no (without Hyphens)",11 Digits,3762 123456 78901 input the bill reference no. as 37621234567,Credit Cards / DBS Cashline
+11,American Express Card,"For charge cards (3762 0 xxx...), input first 11 digits of the card no (without Hyphens)",11 Digits,3762 123456 78901 input the bill reference no. as 37621234567,Credit Cards / DBS Cashline
+12,American Express Card,"For corporate cards (3762 2 xxx...), input first 11 digits of the card no (without Hyphens)",11 Digits,3762 123456 78901 input the bill reference no. as 37621234567,Credit Cards / DBS Cashline
+13,DBS Cashline (information),10-Digit DBS Cashline account no.,10 Digits,0821234567,Credit Cards / DBS Cashline
+14,Busy Bees Singapore,DDA Reference Should be Child’s Birth Certificate along with indication of CDA or GRO,12 Characters (5 Alphabets 7 digits),T1234567ACDA or T1234567AGRO,Educational Institution
+15,Brighton Montessori,DDA Reference Should be Child’s Birth Certificate along with indication of CDA or GRO,12 Characters (5 Alphabets 7 digits),T1234567ACDA or T1234567AGRO,Educational Institution
+16,Pat's Schoolhouse,DDA Reference Should be Child’s Birth Certificate along with indication of CDA or GRO,12 Characters (5 Alphabets 7 digits),T1234567ACDA or T1234567AGRO,Educational Institution
+17,Odyssey Preschool,DDA Reference Should be Child’s Birth Certificate along with indication of CDA or GRO,12 Characters (5 Alphabets 7 digits),T1234567ACDA or T1234567AGRO,Educational Institution
+18,Learning Vision,DDA Reference Should be Child’s Birth Certificate along with indication of CDA or GRO,12 Characters (5 Alphabets 7 digits),T1234567ACDA or T1234567AGRO,Educational Institution
+19,Ministry of Education,NRIC or FIN as per Student ID,9 Characters (2 Alphabet 7 digits),T0123456A/ G1234567W,Educational Institution
+20,MOE Kindergartens,DDA Reference should be Birth Certificate number of enrolled MK child,9 Characters (2 Alphabets 7 digits),T1234567A,Educational Institution
+21,Nanyang Polytechnic,Admission Number,7 Alphanumeric Characters,120899P,Educational Institution
+22,PAP Community Foundation (PCF),DDA Reference Should be Child’s Birth Certificate along with indication of CDA or GRO,12 characters,T1234567ACDA OR T1234567AGRO,Educational Institution
+23,Raffles Girls' School (Secondary),NRIC or FIN as per Student ID,9 Characters (2 alphabets 7 digits),T0812345ZG1954321A,Educational Institution
+24,Raffles Institution,NRIC or FIN No.,9 Characters (2 Alphabet 7 Digits),S7812345I / F1234567J,Educational Institution
+25,Singapore American School Limited,Student ID number,5 characters,12345,Educational Institution
+26,Singapore Institute of Technology (SIT),Student ID,7 Characters,1600101,Educational Institution
+27,Singapore Management University,NRIC or FIN as per Campus ID,9 Characters (2 Alphabet 7 digits),S7712345I/F1234578A,Educational Institution
+28,Singapore Polytechnic,Student ID No.,7 Digits,2000001,Educational Institution
+29,Temasek Polytechnic,Admission Number,8 Alphanumeric Characters,2012345P,Educational Institution
+30,ZOO-PHONICS (BB),"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA account",6,823451 OR 823452,Educational Institution
+31,ZOO-PHONICS THOMSON,"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA account",6,823451 OR 823452,Educational Institution
+32,ZOO-PHONICS WOODLANDS,"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA account",6,823451 OR 823452,Educational Institution
+33,ZOO-PHONICS (BTSC),"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA account",6,823451 OR 823452,Educational Institution
+34,ZOO-PHONICS TAMPINES,"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA account",6,823451 OR 823452,Educational Institution
+35,ZOO-PHONICS BT TIMAH,"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA account",6,823451 OR 823452,Educational Institution
+36,ZOO-PHONICS INT PSCH,"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA account",6,823451 OR 823452,Educational Institution
+37,ZOO-PHONICS ASIA,DDA Reference should be Child’s Student ID,5,82345,Educational Institution
+38,ZOO-PHONICS TPY,"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA accounts",6,823451 OR 823452,Educational Institution
+39,ZOO-PHONICS (1A),"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA accounts",6,823451 OR 823452,Educational Institution
+40,ZOO-PHONICS YISHUN,"DDA Reference should be Child’s Student ID followed by ""1"" for CDA accounts or ""2"" for non-CDA accounts",6,823451 OR 823452,Educational Institution
+41,Health Promotion Board,Please refer to the DDA reference number that is included in your hiSG notification email.,7 Digits,1010123,Government Agencies
+42,IRAS - Income Tax*,NRIC or FIN No.,9 Characters,S7812345I / F1234567J,Government Agencies
+43,IRAS - Property Tax*,Reference No. provided by billing organisation,8 Characters,0357568G,Government Agencies
+44,KK HOSPITAL,Patient’s NRIC or FIN No.,9 Characters (2 Alphabet 7 Digits),S7812345I / F1234567J,Government Agencies
+45,NHC Outpatient,Patient’s NRIC or FIN No.,9 Characters (2 Alphabet 7 Digits),S1234567A / F1234567J,Government Agencies
+46,SENGKANG GENERAL HOSPITAL,Patient's NRIC or FIN or MRN No.,12 Characters (2 Alphabets 9 Digits),S1234567A / F1234567J/ X0123456789B,Government Agencies
+47,SGHNEEDYPATIENTSFUND,NRIC or FIN No.,9 Characters (2 Alphabet 7 Digits),S7812345I / F1234568J,Government Agencies
+48,Singapore Food Agency,"Customer reference number, usually UEN, NRIC or FIN",10 characters (Max) (All in CAPS),UEN: 201511111A NRIC/FIN: S1234567A,Government Agencies
+49,Singhealth Polyclinics,NRIC No. as per Bank Account Holder NRIC,9 Characters (2 Alphabets 7 Digits),S1234567A,Government Agencies
+50,SNEC Outpatient,Patient’s NRIC or FIN No.,9 Characters (2 Alphabet 7 Digits),S1234567A / F1234567J,Government Agencies
+51,WOODBRIDGE CHARITY,NRIC or FIN No.,9 Characters (2 Alphabet 7 Digits),S1234567A / F1234567J,Government Agencies
+52,AIA*,Insurance Policy No.,"i. 10 Character Policy Format: X999999999 where the first character is an alphabet, followed by 9 numeric.",L123456780,Insurance Companies
+53,AIA*,Insurance Policy No.,"For Loan, replace the first alphabet as “R”, followed by 9 numeric.",R123456780,Insurance Companies
+54,AIA*,Insurance Policy No.,"For HealthShield policy with Essential Rider, please enter only the HealthShield policy number with prefix “H”.",H123456780,Insurance Companies
+55,AIA*,Insurance Policy No.,ii. 9 Numeric Policy Format: 999999999 policy number should be ranged between 000014570 and 000926361,000014995 000335759,Insurance Companies
+56,AIA*,Insurance Policy No.,"For Loan, to add alphabet “R” as the first character, followed by 9 numeric.",R000123456,Insurance Companies
+57,AXA Life Insurance (Singapore) Pte Ltd*,Policy No. with the billing organisation.,i. 999999 where there are 6 digits,i. 012345,Insurance Companies
+58,AXA Life Insurance (Singapore) Pte Ltd*,Policy No. with the billing organisation.,"ii. X99999 where X can be 'H', M' or 'P' followed by 5 digits",ii. H12345,Insurance Companies
+59,AXA Life Insurance (Singapore) Pte Ltd*,Policy No. with the billing organisation.,iii. 99999999 where there are 8 digits,iii. 00112233,Insurance Companies
+60,AXA Life Insurance (Singapore) Pte Ltd*,Policy No. with the billing organisation.,"iv. 999-9999999 where the first 3 digits can be 501, 601, 701, 800, 801, 811, 821, 831, 841, 851",iv. 501-1234567,Insurance Companies
+61,CHINA LIFE INSURANCE (SINGAPORE) PTE. LTD.*,Insurance Policy No.,8 Digits,12345678,Insurance Companies
+62,CHINA TAIPING INSURANCE (SINGAPORE) PTE. LTD.,10 digit Policy Number (Numeral) - Only Applicable for Life Insurance Policy,10 Digits,0123456789,Insurance Companies
+63,Great Eastern Life*,Insurance Policy No.,8 or 10 Digits (Max),,Insurance Companies
+64,Great American Insurance Company*,Policy Number,12 characters Example of policy number: PATRA00000000100 *Remove 1st two characters and last two characters,TRA000000001,Insurance Companies
+65,Manulife Singapore,Insurance Policy Number,(i) 10 digit policy format: 14XXXXXXXX (ii) 8 digit policy format: 70XXXXXX,14XXXXXXXX 24XXXXXXXX 10XXXXXX 70XXXXXX 80XXXXXX,Insurance Companies
+66,MSIG Insurance (s) Pte Ltd*,Insurance Policy No.,,,Insurance Companies
+67,NTUC INCOME INSURANCE CO-OPERATIVE LTD*,Insurance Policy No.,,,Insurance Companies
+68,Prudential Assurance*,"Contract no., NOT beginning with '7' or '8'",8 Digits,,Insurance Companies
+69,Singlife (Health)*,MINDEF & MHA Group Insurance,0686xxxxxxxx where ‘xxxxxxxx” denotes your 8-digit Client Reference No,068612345678,Insurance Companies
+70,Singlife (Health)*,Public Officers Group Insurance,PGxxxxxxxx where ‘xxxxxxxx” denotes your 8-digit Client Reference No. (Letters all in Uppercase),PG12345678,Insurance Companies
+71,Singlife (Health)*,Individual Health Policy,8-digit Policy No.,12345678,Insurance Companies
+72,Singlife (Life)*,Individual Life Policy,8-alphanumeric Policy No.,12345678 A2345678,Insurance Companies
+73,Tokio Marine Life Insurance*,Policy Number,5 to 8 characters,"Life Insurance Policy No (5 to 8 Characters)i. 88888 where there are 5 digits ii. 888888 where there are 6 digits iii. 88888888 where there are 8 digits (inclusive of zeros in front) iv. XX8888 where XX can be IS, IM, ES, EM, TR or RR followed by 4 digitsv. D9999999 starting with D followed by 7 digits",Insurance Companies
+74,Ablr,NRIC or FIN No.,9 Characters,S7812345I / F1234567J,Other Agencies
+75,Care for The Disabled Limited,NRIC No. with Prefix,9,S1234567A,Other Agencies
+76,Certis CISCO SafeBox,Account No as shown in the middle section of the SDB Agreement Form.,Up to 12 Digits,123456789012 / 12345678,Other Agencies
+77,CordLife Group Limited,Collection Kit no. for Child DevelopmentAccounts (CDA),"9 Characters (Alphanumeric, without hyphens)","For SG-0-012345,input as SG0012345",Other Agencies
+78,CordLife Group Limited,“N” prefix + Collection Kit no. for Non-CDA Accounts,"10 Characters (Alphanumeric, without hyphens)","For SG-0-012345,input as NSG0012345",Other Agencies
+79,Credit Culture Pte Ltd,"Customer GIRO reference number, starting with GI.","10 Characters (GI, followed by 4 numeric, followed by 4 alphanumeric)",GI180713A9,Other Agencies
+80,Fundbox Pte Ltd,Agreement No. as shown on the top left section of your Agreement Document,2 ALPHABET followed by 9 DIGITS,EK190502559,Other Agencies
+81,HitPay Payment Solution Pte Ltd,Please refer to DDA reference displayed on HitPay payment checkout page or included in email sent by HitPay Payment Solutions Pte Ltd,11,RP123456789,Other Agencies
+82,Metis Global SG,Trust Plan No.,10,RPRO12345S,Other Agencies
+83,NETS - NETS Cheque,NETS Cheque Ref. No.,12 Characters (12 Digits),912345679999,Other Agencies
+84,NKF,Individual: NRIC/ FIN or Passport No.,11 Characters (Max),S1234567A/ F1234567A,Other Agencies
+85,NTUC Membership,NRIC or FIN No.,9 Characters,S7812345I / F1234567J,Other Agencies
+86,PAP Community Foundation (PCF),DDA reference should be elderly client NRIC,9 Characters,S1234567A,Other Agencies
+87,TECK WEI CREDIT PL,Vehicle Number,8 Characters (Alphanumerics),SGK1234B / FE1234K,Other Agencies
+88,Toyota Financial,Agreement Number,,,Other Agencies
+89,UNIQCASH PTE LTD,NRIC or FIN,9 Characters (2 Alphabet 7 digits),S0123456A / G1234567W,Other Agencies
+90,ES Power by Environmental Solutions (Asia) Pte Ltd,Account No. as shown on the utilities invoice,7 digits. Account No. starting with “1”,1012345,Telecommunications and Utilities
+91,FLO ENERGY SINGAPORE,"Flo Account Number, as shown on the top right section of the Utilities invoice",10 characters (2 characters and 8 Digits),SG01015099,Telecommunications and Utilities
+92,Geneco - Seraya Energy,10 characters account number with prefix ‘GC’.,10 characters,GC1234567C,Telecommunications and Utilities
+93,Keppel Electric Pte Ltd,"Your Keppel Account No. If you do not have an Account No., refer to your welcome email",10 digits (Account No.) / 11 digits (Email Bill Reference No.),1234567890 / 98765432101,Telecommunications and Utilities
+94,M1 Limited,"9 numeric digit ""Account No"" shown on the M1 Limited invoice",9 Numeric Digits,,Telecommunications and Utilities
+95,MyRepublic Pte Ltd,Customer Identification No. or NRIC No.,8 Characters (1 alphabet & 7 digits) or 9 characters (2 alphabets & 7 digits),C1000000 / SXXXXXXXZ,Telecommunications and Utilities
+96,Pacificlight Energy Pte Ltd,PLE Account No. as shown at the top right section of the Bill,8 Characters (8 numeric),12345678,Telecommunications and Utilities
+97,Singapore Telecommunications Ltd,Account No. with billing organisation as shown on statement,8 Digits,,Telecommunications and Utilities
+98,SP Services,Utilities Contract Account No. as shown at the top right section of the utilities invoice,10 Characters (9 Digits 1 Alphanumeric),1234567890 / 123456789-,Telecommunications and Utilities
+99,StarHub Ltd,Account No. with StarHub Ltd as displayed on your right hand corner of your bill,"Numeric with decimals, ending with a letter.",Eg: 1.12345678A,Telecommunications and Utilities
+100,Sembcorp Power Pte Ltd,Account No. with Sembcorp Power Pte Ltd as displayed on statement/invoice,10 Characters (1 Uppercase alphabet & 9 digits),H123456782 / B000000018,Telecommunications and Utilities
+101,Sunseap Energy Pte Ltd,Sunseap Account number as shown on top right of your invoice.,Sunseap Account number as shown on top right of your invoice.,23012345,Telecommunications and Utilities
+102,Union Power Pte Ltd,MSSL Number,10 Digits / 13 Digits,9308014458 9308014458-013,Telecommunications and Utilities
+103,Marine Parade Town Council,Reference No. as show on statement,12 Characters (1 Alphabet 11 Digits),C12345678900,Town Councils
