@@ -1,5 +1,5 @@
 # sg-bill-org-scraper
-This is a web scraper to get Singapore Billing Organisations.
+This is a web scraper to get Singapore Billing Organisations. Scraping is performed with [RPA Python](https://github.com/tebelorg/RPA-Python) and [pandas](https://github.com/pandas-dev/pandas).
 
 ## Context
 
@@ -18,9 +18,15 @@ In this project, I have chosen to scrape the POSB website because its DOM struct
 
 ## Results
 
-9 Categories, 104 Billing organisations found.
+**9 Categories**, **104 Billing organisations** found.
 
-You can refer to `payees_with_category.xlsx` or `payees_with_category.csv`, whichever format you prefer. To use it in your project, you can either download the file locally, or you can fetch it at the raw file on GitHub.
+You can refer to [payees_with_category.xlsx](./payees_with_category.xlsx) or [payees_with_category.csv](./payees_with_category.csv), whichever file format you prefer. 
+
+### Using the data in your project
+
+To use it in your project, you can either download the file locally, or you can fetch it at the [raw file on GitHub](https://raw.githubusercontent.com/lyqht/sg-bill-org-scraper/main/payees_with_category.csv).
+
+An upcoming example will be added soon to the README!
 
 ## Setup instructions
 
